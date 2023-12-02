@@ -1,0 +1,35 @@
+-----------------------------------------------------------------------------------------------ACT 2------------------------------------------------------------------------------------------------------
+Part 1
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+"Mills, we're currently on State 324 Road, heading to Caesar's place. Need help with the exact location."
+
+The countryside stretched out before us as Chuck navigated the narrow straight road, with morning sun, right up our windshield. I took a deep breath and dialled Lieutenant Mills.
+
+‘Mills here, what do you need, Teddy?’
+
+‘Any updates on Caesar's murder, Mills?
+
+‘Still early in the investigation, Teddy. No signs of a break-in, no witnesses saw anything unusual. We're piecing it together.’I sighed, glancing at Chuck, who focused on the road.
+
+‘Alright, keep me posted. Anything odd you've come across?’
+
+Mills hesitated for a moment. ‘Actually, we found something. In a folder on Caesar 's computer labelled “Caesar: An Open Book” we stumbled upon a bunch of mysterious mathematical cipher files. No idea what they mean, but it's got us scratching our heads.’
+
+My instincts flared up, a spark of suspicion igniting within me.
+
+‘The folder's name, Mills?’
+
+‘Yeah, “Caesar: An Open Book”. Thought it was strange considering the circumstances.’
+
+‘Send those files over, Mills. We'll take a look. Keep digging, and let us know if anything else comes up. We're on our way.’
+
+As I hung up, I turned to Chuck.
+‘Cipher files, Chuck. Caesar, a scientist, murdered, and now mysterious ciphers. This investigation just took a turn down a rabbit hole. Let's see what these files reveal.’
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Task: 
+	> Read 2_part.txt.
+
+PS:
+	> Cipher texts are contained in file ceacar_an_open_book.txt
+
